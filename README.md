@@ -3,7 +3,7 @@
 ## Advanced Filters
 **Install**
 ```bash
-npm install directus-extension-fieldplus
+npm i directus-extension-interfaces
 ```
 
 **Usage**

@@ -6,7 +6,7 @@
 		"url": "https://github.com/codihaus/Directus-Extension-Fieldplus.git"
 	},
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"directus",
 		"directus-extension",
