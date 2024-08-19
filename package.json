@@ -22,7 +22,7 @@
 			{
 				"type": "interface",
 				"name": "advanced-filters",
-				"source": "src/advanced-filters/index.ts"
+				"source": "src/interface-advanced-filters/index.ts"
 			}
 		],
 		"host": "^10.10.0"
