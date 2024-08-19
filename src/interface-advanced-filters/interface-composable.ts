@@ -1,5 +1,5 @@
 import {computed} from 'vue';
-import {useCollection, useStores} from "@directus/extensions-sdk";
+import {useStores} from "@directus/extensions-sdk";
 
 export function useInterfaceComposable(name) {
     const { useCollectionsStore, useFieldsStore } = useStores();

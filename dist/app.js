@@ -201,7 +201,7 @@ var _sfc_main = /* @__PURE__ */ defineComponent({
 
 var e=[],t=[];function n(n,r){if(n&&"undefined"!=typeof document){var a,s=!0===r.prepend?"prepend":"append",d=!0===r.singleTag,i="string"==typeof r.container?document.querySelector(r.container):document.getElementsByTagName("head")[0];if(d){var u=e.indexOf(i);-1===u&&(u=e.push(i)-1,t[u]={}),a=t[u]&&t[u][s]?t[u][s]:t[u][s]=c();}else a=c();65279===n.charCodeAt(0)&&(n=n.substring(1)),a.styleSheet?a.styleSheet.cssText+=n:a.appendChild(document.createTextNode(n));}function c(){var e=document.createElement("style");if(e.setAttribute("type","text/css"),r.attributes)for(var t=Object.keys(r.attributes),n=0;n<t.length;n++)e.setAttribute(t[n],r.attributes[t[n]]);var a="prepend"===s?"afterbegin":"beforeend";return i.insertAdjacentElement(a,e),e}}
 
-var css = "\n.wrapper-input[data-v-61885c8e] {\n\tpadding: 20px;\n\tborder-radius: var(--theme--border-radius);\n\tbackground: var(--theme--navigation--background);\n}\n";
+var css = "\n.wrapper-input[data-v-e68115e9] {\n\tpadding: 20px;\n\tborder-radius: var(--theme--border-radius);\n\tbackground: var(--theme--navigation--background);\n}\n";
 n(css,{});
 
 var _export_sfc = (sfc, props) => {
@@ -212,12 +212,12 @@ var _export_sfc = (sfc, props) => {
   return target;
 };
 
-var InterfaceComponent = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-61885c8e"], ["__file", "interface.vue"]]);
+var InterfaceComponent = /* @__PURE__ */ _export_sfc(_sfc_main, [["__scopeId", "data-v-e68115e9"], ["__file", "interface.vue"]]);
 
 var e0 = defineInterface({
-  id: "cdh-filter",
-  name: "Filter",
-  icon: "box",
+  id: "advanced-filters",
+  name: "Advanced Filters",
+  icon: "filter_alt",
   description: "",
   component: InterfaceComponent,
   options: null,

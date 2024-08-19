@@ -1,6 +1,10 @@
 {
 	"name": "directus-extension-interfaces",
-	"description": "Please enter a description for your extension",
+	"description": "Collection of useful interfaces for Directus",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/codihaus/Directus-Extension-Fieldplus.git"
+	},
 	"icon": "extension",
 	"version": "1.0.0",
 	"keywords": [
@@ -22,7 +26,7 @@
 			{
 				"type": "interface",
 				"name": "advanced-filters",
-				"source": "src/advanced-filters/index.ts"
+				"source": "src/interface-advanced-filters/index.ts"
 			}
 		],
 		"host": "^10.10.0"
