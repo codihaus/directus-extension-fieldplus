@@ -18,4 +18,8 @@ Data Store: JSON (similar to the right-hand side)
 
 Collection: Exclude collections that start with directus_
 
+**Interface Setting**
+![02.png](SCREENS/02.png)
+
+**Form render**
 ![01.png](SCREENS%2F01.png)

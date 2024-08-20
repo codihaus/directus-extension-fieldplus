@@ -1,16 +1,24 @@
 {
-	"name": "directus-extension-interfaces",
+	"name": "directus-extension-fieldsplus",
 	"description": "Collection of useful interfaces for Directus",
+	"author": {
+		"email": "contact@codihaus.com",
+		"name": "CodiHaus"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/codihaus/Directus-Extension-Fieldplus.git"
 	},
 	"icon": "extension",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"keywords": [
 		"directus",
 		"directus-extension",
-		"directus-extension-bundle"
+		"directus-extension-bundle",
+		"query-builder",
+		"landingpage",
+		"custom-filter",
+		"query-builder"
 	],
 	"type": "module",
 	"files": [
